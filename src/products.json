@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "name": "Camisa",
+        "price": 100,
+        "discount": 30,
+        "url":"https://picsum.photos/seed/picsum/180"
+    },
+    {
+        "id":2,
+        "name": "Pantalón",
+        "price": 200,
+        "discount": 15,
+        "url":"https://picsum.photos/180?grayscale"
+    },
+    {
+        "id":3,
+        "name": "Chaqueta",
+        "price": 400,
+        "discount": 75,
+        "url":"https://picsum.photos/180?grayscale"
+    },
+    {
+        "id":4,
+        "name": "Zapatos",
+        "price": 700,
+        "discount": 20,
+        "url":"https://picsum.photos/180?grayscale"
+    },
+    {
+        "id":5,
+        "name": "Teclado",
+        "price": 700,
+        "discount": 20,
+        "url":"https://picsum.photos/180?grayscale"
+    },
+    {
+        "id":6,
+        "name": "Mouse",
+        "price": 700,
+        "discount": 20,
+        "url":"https://picsum.photos/180?grayscale"
+    },
+    {
+        "id":7,
+        "name": "Camara",
+        "price": 700,
+        "discount": 20,
+        "url":"https://picsum.photos/180?grayscale"
+    },
+    {
+        "id":8,
+        "name": "Monitor",
+        "price": 700,
+        "discount": 20,
+        "url":"https://picsum.photos/180?grayscale"
+    },
+    {
+        "id":9,
+        "name": "Audiculares",
+        "price": 100,
+        "discount": 50,
+        "url":"https://picsum.photos/180?grayscale"
+    }
+]
